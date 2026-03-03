@@ -24,7 +24,7 @@ Example: 101.mp4\
 ------------------------------------------------------------------------
 
 ## 📂 Project Structure
-
+```
 VideoDownloader/ 
 │ 
 ├── main.py
@@ -32,6 +32,7 @@ VideoDownloader/
 ├── requirements.txt 
 ├──README.md 
 └── downloads/
+```
 
 ------------------------------------------------------------------------
 
