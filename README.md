@@ -25,8 +25,13 @@ Example: 101.mp4\
 
 ## 📂 Project Structure
 
-VideoDownloader/ │ ├── main.py ├── Damnit.xlsx ├── requirements.txt ├──
-README.md └── downloads/
+VideoDownloader/ 
+│ 
+├── main.py
+├── Damnit.xlsx 
+├── requirements.txt 
+├──README.md 
+└── downloads/
 
 ------------------------------------------------------------------------
 
